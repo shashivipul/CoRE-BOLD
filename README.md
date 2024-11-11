@@ -3,4 +3,4 @@ This repository will contain the source code of our paper "CoRE-BOLD: Cross-Doma
 
 
 # Citation
-If you use GARNET in your research, please cite our work published at ML4H'24.
+If you use CoRE-BOLD in your research, please cite our work published at ML4H'24.
