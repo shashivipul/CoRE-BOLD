@@ -1,5 +1,5 @@
 # Best PMLR Poster Award in Learning on Graphs (LoG) New Delhi 2024 Meetup
-Exciting update regarding our work. We have received "Best PMLR Poster Award" at the LoG event. Please find the poster on this [link]().
+Exciting update regarding our work. We have received "Best PMLR Poster Award" at the LoG event. Please find the poster on this [link](https://drive.google.com/file/d/1l259l86MZDt0DvXtJl-xUea1K_2hYrOv/view?usp=drive_link).
 
 # Paper
 Thank you for landing. Please find the pre-print of our paper on this [link](https://drive.google.com/file/d/1L3PFb3YanuACSW2nJtbqeIM0fy7ZFYaO/view?usp=sharing).
